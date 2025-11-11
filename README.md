@@ -1,0 +1,2 @@
+# uceni_bez_ucitele
+aaaaaaaaaaaaaaaaaaaa
