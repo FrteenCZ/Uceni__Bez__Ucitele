@@ -1,6 +1,4 @@
-# uceni_bez_ucitele
-
-KYB 
+# uceni_bez_ucitele aneb KYB 
 
 musime z toho odmaturovat, takže z něčeho se to budem muset učit
 
