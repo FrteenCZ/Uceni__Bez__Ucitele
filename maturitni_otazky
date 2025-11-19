@@ -1,0 +1,31 @@
+# Maturitní otázky z KYB
+
+## Jedlička
+
+1. Verzovací systém Git
+2. Kybernetika, definice, základní principy a terminologie
+3. Booleova Algebra
+4. Karnaughovy mapy
+5. Základní principy umělé inteligence
+6. Učení s učitelem
+7. Učení bez učitele
+8. Základní principy neuronových sítí
+9. Typy neuronových sítí
+10. Computer vision
+11. Algorytmizace - řízení programu
+12. Objektově orientované programování
+
+## Švihla
+
+13. Pasivní elektronické prvky
+14. Aktivní elektronické prvky
+15. Kombinační a sekvenční logika
+16. Elektronické senzory a aktuátory
+17. Jednočipové mikropočítače a mikrokontrolery
+18. Čítače a časové přerušení
+19. A/D a D/A převodníky
+20. Pulzně šířková modulace (PWM)
+21. Komunikační protokol MQTT a jeho využití
+22. Komunikační sběrnice I2C a SPI
+23. Regulátory - P, PI, PID
+24. Návrh a stabilita regulátorů
