@@ -5,7 +5,6 @@ KYB
 musime z toho odmaturovat, takže z něčeho se to budem muset učit
 
 
+[Maturitní otázky](maturitni_otazky.md) 
 
-[(Maturitní otázky pdf)](Temata_matzk2526_KYB.pdf)
-
-
+pak je tu ještě origoš [(pdf)](Temata_matzk2526_KYB.pdf)
