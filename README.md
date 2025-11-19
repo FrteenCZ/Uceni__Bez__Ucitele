@@ -1,7 +1,8 @@
 # uceni_bez_ucitele
 
 KYB 
-kdyz uz se to musime ucit...
+
+musime z toho odmaturovat, takže z něčeho se to budem muset učit
 
 
 
