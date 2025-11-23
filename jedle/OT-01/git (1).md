@@ -37,7 +37,7 @@
 	- 2. **Staging area:** Mezi prostor pro formátování a kontrolu vybraných souborů před comitem.
 	- 3. **Lokální repozitář: “**Commitunté” změny, které se projeví jen v repozitáři u nás na disku.
 	- 4. **Vzdálený repozitář:** Serverový repozitář. Nahráním změn na server umožní práci stáhnou i na jiné zařízení a pokračovat tam, nebo tím zpřístupníme změny i spolupracovníkům.
-	- ![image.png](../assets/image_1739174395321_0.png)
+	- ![image.png](image_1739174395321_0.png)
 - ---
 - ## Základní příkazy a práce s gitem
 	- Git ovládáme přes příkazový řádek (shell) použitím následujících příkazů
