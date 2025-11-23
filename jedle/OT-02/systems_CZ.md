@@ -115,7 +115,7 @@ Systém prvního řádu popsaný touto přenosovou funkcí je často používán
 | Přechodová charakteristika                          | Impulsní charakteristika                                    |
 | --------------------------------------------------- | ----------------------------------------------------------- |
 | $y(t)=K\left(1−e^{\frac{−t}{τ}}\right)$             | $y(t) = \frac{K}{\tau} e^\frac{-t}{\tau}$                   |
-| ![Systém prvního řádu](/img/System_first_order.png) | ![Systém prvního řádu](/img/System_first_order_impulse.png) |
+| ![Systém prvního řádu](../../img/System_first_order.png) | ![Systém prvního řádu](../../img/System_first_order_impulse.png) |
 |                                                     |                                                             |
 
 ### Klíčové metriky u systémů prvního řádu:
@@ -128,7 +128,7 @@ Systém prvního řádu popsaný touto přenosovou funkcí je často používán
 
 3. **Doba ustálení**: 
    - Doba ustálení je čas, který systém potřebuje k tomu, aby se výstup ustálil v určitém procentu konečné hodnoty, obvykle do 2 % nebo 5 %. Pro systém prvního řádu je doba ustálení přibližně $4-5\tau$.
-![Systém prvního řádu](img/System_first_order_tau.png)
+![Systém prvního řádu](../../img/System_first_order_tau.png)
 
 ## Příklady **systémů prvního řádu**:
 
@@ -224,7 +224,7 @@ Kde:
 | Přechodová charakteristika response | Impulsní charakteristika |
 | ---- | ---- |
 | $y(t) = 1 - \frac{1}{\sqrt{1-\zeta^2}} e^{-\zeta \omega_n t} \sin\left(\omega_n \sqrt{1-\zeta^2} t + \phi\right) \textnormal{, for } \zeta < 1$  | $y(t) = \frac{\omega_n}{\sqrt{1-\zeta^2}} e^{-\zeta \omega_n t} \sin\left(\omega_n \sqrt{1-\zeta^2} t\right) \textnormal{, for } \zeta <1$ |
-| ![](img/System_second_order.png) | ![](img/System_second_order_impulse.png) |
+| ![](../../img/System_second_order.png) | ![](../../img/System_second_order_impulse.png) |
 
 ### Klíčové metriky u systémů druhého řádu
 
@@ -244,7 +244,7 @@ Tyto metriky pomáhají analyzovat dynamickou odezvu systému a umožňují hodn
 
 | vliv parametru $\omega$                | vliv parametru $\zeta$                |
 | -------------------------------------- | ------------------------------------- |
-| ![](img/System_second_order_omega.png) | ![](img/System_second_order_zeta.png) |
+| ![](../../img/System_second_order_omega.png) | ![](../../img/System_second_order_zeta.png) |
 
 
 ## Příklady **systémů druhého řádu**:
