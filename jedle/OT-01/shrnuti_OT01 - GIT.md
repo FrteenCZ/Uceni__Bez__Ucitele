@@ -1,4 +1,4 @@
-#Shrnutí git (OT-01) 
+# Shrnutí git (OT-01) 
 
 *[kyb skripta od švihly - git](git.md)*
 
