@@ -1,14 +1,13 @@
 # Švihlovo otázky
-
-13. Pasivní elektronické prvky
-14. Aktivní elektronické prvky
-15. Kombinační a sekvenční logika
-16. Elektronické senzory a aktuátory
-17. Jednočipové mikropočítače a mikrokontrolery
-18. Čítače a časové přerušení
-19. A/D a D/A převodníky
-20. Pulzně šířková modulace (PWM)
-21. Komunikační protokol MQTT a jeho využití
-22. Komunikační sběrnice I2C a SPI
-23. Regulátory - P, PI, PID
-24. Návrh a stabilita regulátorů
+13. [Pasivní elektronické prvky](OT-13)
+14. [Aktivní elektronické prvky](OT-14)
+15. [Kombinační a sekvenční logika](OT-15)
+16. [Elektronické senzory a aktuátory](OT-16)
+17. [Jednočipové mikropočítače a mikrokontrolery](OT-17)
+18. [Čítače a časové přerušení](OT-18)
+19. [A/D a D/A převodníky](OT-19)
+20. [Pulzně šířková modulace (PWM)](OT-20)
+21. [Komunikační protokol MQTT a jeho využití](OT-21)
+22. [Komunikační sběrnice I2C a SPI](OT-22)
+23. [Regulátory - P, PI, PID](OT-23)
+24. [Návrh a stabilita regulátorů](OT-24)
