@@ -112,10 +112,11 @@ Kde:
 
 Systém prvního řádu popsaný touto přenosovou funkcí je často používán k modelování jednoduchých dynamických systémů, jako jsou tepelné procesy, systémy toku kapalin nebo elektrické obvody s odporem a kapacitou.
 
-| Přechodová charakteristika | Impulsní charakteristika |
-| ---- | ---- |
-| $y(t)=K\left(1−e^{\frac{−t}{τ}}\right)$ | $y(t) = \frac{K}{\tau} e^\frac{-t}{\tau}$ |
-| ![Systém prvního řádu](img/System_first_order.png) | ![Systém prvního řádu](img/System_first_order_impulse.png) |
+| Přechodová charakteristika                          | Impulsní charakteristika                                    |
+| --------------------------------------------------- | ----------------------------------------------------------- |
+| $y(t)=K\left(1−e^{\frac{−t}{τ}}\right)$             | $y(t) = \frac{K}{\tau} e^\frac{-t}{\tau}$                   |
+| ![Systém prvního řádu](/img/System_first_order.png) | ![Systém prvního řádu](/img/System_first_order_impulse.png) |
+|                                                     |                                                             |
 
 ### Klíčové metriky u systémů prvního řádu:
 1. **Přechodvá charakteristika**: 
@@ -241,8 +242,8 @@ Kde:
 
 Tyto metriky pomáhají analyzovat dynamickou odezvu systému a umožňují hodnotit, jak rychle a přesně systém dosahuje ustáleného stavu.
 
-| vliv parametru $\omega$ | vliv parametru $\zeta$ |
-| ---- | ---- |
+| vliv parametru $\omega$                | vliv parametru $\zeta$                |
+| -------------------------------------- | ------------------------------------- |
 | ![](img/System_second_order_omega.png) | ![](img/System_second_order_zeta.png) |
 
 
