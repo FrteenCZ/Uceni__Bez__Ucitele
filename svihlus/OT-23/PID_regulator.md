@@ -1,5 +1,5 @@
 # Princip řízení pomocí zpětné vazby
-<img src="img/feedback.png">
+<img src="../../img/feedback.png">
 
 schema systému zapojeného ve zpětné vazbě s regulátorem, kde:
 
@@ -73,7 +73,7 @@ Derivační regulátor reaguje na rychlost změny chyby. Pokud se chyba rychle z
 
 ## PID regulátor:
 
-<img src="img/pid.png">
+<img src="../../img/pid.png">
 
 PID je navržen pro regulaci hodnot procesů, například teploty, rychlosti, tlaku nebo polohy. PID je zkratka pro Proporcionální (P), Integrální (I) a Derivační (D) složky regulátoru. Každá z těchto složek přináší určité vlastnosti do regulace a společně tvoří efektivní nástroj pro udržení regulovaného procesu na požadované hodnotě.
 
