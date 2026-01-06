@@ -23,7 +23,7 @@ Každou funkci lze vyjádřit prostřednictvím nějakého omezeného počtu vho
 
 **Logické funkce dvou proměnných**
 
-<img src="img/logickeFunkce.png">
+<img src="../../img/logickeFunkce.png">
 
 ## Booleova algebra
 Booleova algebra je odvětví matematické logiky, které se zabývá operacemi s logickými hodnotami a funkcemi. Základy této algebry položil George Boole v polovině 19. století. 
@@ -41,7 +41,7 @@ Logický součit, součet a negace jsou definovány takto:
 
 **Základní pravidla Booleovy algebry:**
 
-<img src=img/booleovaAlgebra.png>
+<img src=../../img/booleovaAlgebra.png>
 
 ## Karnaughova mapa (K-map) 
 je grafická metoda používaná k minimalizaci logických výrazů v Booleově algebře. Pomáhá jednoduchým a přehledným způsobem redukovat složité logické funkce na jejich nejjednodušší podobu. Tato metoda je zvláště užitečná při návrhu logických obvodů.
@@ -67,6 +67,6 @@ Karnaughova mapa je tabulka, kde každé pole odpovídá určité kombinaci hodn
 
 ### Příklad:
 
-<img src=img/Karnaugh.png>
+<img src=../../img/Karnaugh.png>
 
 
