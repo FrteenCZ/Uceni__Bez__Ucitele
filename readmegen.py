@@ -45,7 +45,7 @@ for teacher_folder in teacher_folders:
                 continue
             
 
-            content += f"- [{file}]({teacher_folder}/{question}/{quote(file)})\n"
+            content += f"- [{file}](/{teacher_folder}/{question}/{quote(file)})\n"
 
         
         question_number = int(question[-2:]) - 1
