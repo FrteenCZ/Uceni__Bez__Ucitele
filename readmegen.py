@@ -1,4 +1,6 @@
 import os
+from urllib.parse import quote
+
 
 question_names = """1. Verzovací systém Git
 2. Kybernetika, definice, základní principy a terminologie
@@ -42,7 +44,9 @@ for teacher_folder in teacher_folders:
             if file[0] == "." or file == "README.md":
                 continue
             
-            content += f"- [{file}]({teacher_folder}/{question}/{file})\n"
+
+            content += f"- [{file}]({teacher_folder}/{question}/{quote(file)})\n"
+
         
         question_number = int(question[-2:]) - 1
         question_title = question_names[question_number]
