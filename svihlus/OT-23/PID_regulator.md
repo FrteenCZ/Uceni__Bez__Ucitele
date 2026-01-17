@@ -118,16 +118,16 @@ Tato metoda se používá v uzavřené smyčce a je založena na nastavení regu
 2. Změřte periodu oscilací $Tu$​ (ultimate period), což je doba jednoho cyklu oscilace.
 3. Nastavní parametrů $K_p$, $K_i$, $K_d$ podle tabulky:
 
-| Control Type            | $K_p$              | $T_i$                  | $T_d$                 | $K_i$                        | $K_d$                     |
-|-------------------------|--------------------|------------------------|-----------------------|------------------------------|---------------------------|
-| P                       | $0.5 K_u$          | –                      | –                     | –                            | –                         |
-| PI                      | $0.45 K_u$         | $0.83 T_u$             | –                     | $0.54 K_u / T_u$             | –                         |
-| PD                      | $0.8 K_u$          | –                      | $0.125 T_u$           | –                            | $0.10 K_u T_u$            |
-| Classic PID             | $0.6 K_u$          | $0.5 T_u$              | $0.125 T_u$           | $1.2 K_u / T_u$              | $0.075 K_u T_u$           |
-<!--| Pessen Integral Rule    | $0.7 K_u$          | $0.4 T_u$              | $0.15 T_u$            | $1.75 K_u / T_u$             | $0.105 K_u T_u$           |
-| Some Overshoot          | $0.33 K_u$         | $0.50 T_u$             | $0.33 T_u$            | $0.67 K_u / T_u$             | $0.11 K_u T_u$            |
-| No Overshoot            | $0.20 K_u$         | $0.50 T_u$             | $0.33 T_u$            | $0.40 K_u / T_u$             | $0.067 K_u T_u$           |
--->
+| Control Type         | $K_p$      | $T_i$      | $T_d$       | $K_i$            | $K_d$           |
+| -------------------- | ---------- | ---------- | ----------- | ---------------- | --------------- |
+| P                    | $0.5 K_u$  | –          | –           | –                | –               |
+| PI                   | $0.45 K_u$ | $0.83 T_u$ | –           | $0.54 K_u / T_u$ | –               |
+| PD                   | $0.8 K_u$  | –          | $0.125 T_u$ | –                | $0.10 K_u T_u$  |
+| Classic PID          | $0.6 K_u$  | $0.5 T_u$  | $0.125 T_u$ | $1.2 K_u / T_u$  | $0.075 K_u T_u$ |
+| Pessen Integral Rule | $0.7 K_u$  | $0.4 T_u$  | $0.15 T_u$  | $1.75 K_u / T_u$ | $0.105 K_u T_u$ |
+| Some Overshoot       | $0.33 K_u$ | $0.50 T_u$ | $0.33 T_u$  | $0.67 K_u / T_u$ | $0.11 K_u T_u$  |
+| No Overshoot         | $0.20 K_u$ | $0.50 T_u$ | $0.33 T_u$  | $0.40 K_u / T_u$ | $0.067 K_u T_u$ |
+
 
 Metoda Zieglera-Nicholse je heuristická metoda ladění PID regulátorů, která má za cíl především:
 

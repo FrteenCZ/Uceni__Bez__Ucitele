@@ -1,0 +1,1 @@
+![image.png](../../img/Pasted%20image%2020260106104358.png)
