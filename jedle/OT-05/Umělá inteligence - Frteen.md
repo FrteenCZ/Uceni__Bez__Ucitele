@@ -35,4 +35,4 @@ je technologie, která se zabývá vytvářením strojů a systémů schopných 
 ## Učení bez učitele
 ![Učení bez učitele](/jedle/OT-07/Učení%20bez%20učitele%20-%20Frteen.md)
 ## Reinforcement learning
-![[Reinforcement learning](/jedle/OT-05/Reinforcement%20learning%20-%20Frteen.md)
+![Reinforcement learning](/jedle/OT-05/Reinforcement%20learning%20-%20Frteen.md)

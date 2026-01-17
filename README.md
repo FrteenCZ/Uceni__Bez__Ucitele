@@ -6,8 +6,8 @@ Musíme z toho odmaturovat, takže z něčeho se to budem muset učit.
 
 ## Úložiště témat
 
-### [Jedle - Témata Jedlička](jedle/README.md)
-### [Švihla - Témata Švihla](svihlus/README.md)
+### [Jedle - Témata Jedlička](/jedle/README.md)
+### [Švihla - Témata Švihla](/svihlus/README.md)
 
 ---
 
