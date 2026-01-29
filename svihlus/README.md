@@ -1,0 +1,13 @@
+# Švihlovo otázky
+13. [Pasivní elektronické prvky](/svihlus/OT-13/README.md)
+14. [Aktivní elektronické prvky](/svihlus/OT-14/README.md)
+15. [Kombinační a sekvenční logika](/svihlus/OT-15/README.md)
+16. [Elektronické senzory a aktuátory](/svihlus/OT-16/README.md)
+17. [Jednočipové mikropočítače a mikrokontrolery](/svihlus/OT-17/README.md)
+18. [Čítače a časové přerušení](/svihlus/OT-18/README.md)
+19. [A/D a D/A převodníky](/svihlus/OT-19/README.md)
+20. [Pulzně šířková modulace (PWM)](/svihlus/OT-20/README.md)
+21. [Komunikační protokol MQTT a jeho využití](/svihlus/OT-21/README.md)
+22. [Komunikační sběrnice I2C a SPI](/svihlus/OT-22/README.md)
+23. [Regulátory - P, PI, PID](/svihlus/OT-23/README.md)
+24. [Návrh a stabilita regulátorů](/svihlus/OT-24/README.md)
