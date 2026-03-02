@@ -13,99 +13,90 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "svihlus/OT-13/Základní pasivní komponenty.md",
+                "file": "svihlus/OT-14/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Základní pasivní komponenty"
+              "title": "README"
             }
           },
           {
-            "id": "27f173828b23cf05",
+            "id": "12c56858032d978e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "svihlus/OT-14/Základní aktivní komponenty.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Základní aktivní komponenty"
+            }
+          },
+          {
+            "id": "06fa564d0382a9d0",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img/13 Stabilizace napětí graf.png"
+                "file": "img/14. Tyristor.png"
               },
               "icon": "lucide-image",
-              "title": "13 Stabilizace napětí graf"
+              "title": "14. Tyristor"
             }
           },
           {
-            "id": "132cdd2abca5f121",
+            "id": "c9f85106a505adf4",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img/13 Stabilizace napětí.png"
+                "file": "img/14. Tranzistor unipolární.png"
               },
               "icon": "lucide-image",
-              "title": "13 Stabilizace napětí"
+              "title": "14. Tranzistor unipolární"
             }
           },
           {
-            "id": "14115207aa3adf3e",
+            "id": "4ed3cbcbb33a224d",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img/13 fázový posun kondezátor.png"
+                "file": "img/14. Tranzistor Bi- a Uni- polární.png"
               },
               "icon": "lucide-image",
-              "title": "13 fázový posun kondezátor"
+              "title": "14. Tranzistor Bi- a Uni- polární"
             }
           },
           {
-            "id": "2f44770e11e1f072",
+            "id": "21edde133b195de1",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img/13 Fázový posun cívka.png"
+                "file": "img/14. Dioda.png"
               },
               "icon": "lucide-image",
-              "title": "13 Fázový posun cívka"
+              "title": "14. Dioda"
             }
           },
           {
-            "id": "d9ff2fe275c48d9f",
+            "id": "56fb0ca347aaee45",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img/13 Dělič napětí.png"
+                "file": "img/14. Elektromechanické relé.png"
               },
               "icon": "lucide-image",
-              "title": "13 Dělič napětí"
-            }
-          },
-          {
-            "id": "3e6cdb913ef78c45",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/13 Bočník.png"
-              },
-              "icon": "lucide-image",
-              "title": "13 Bočník"
-            }
-          },
-          {
-            "id": "ca86e3e8f095b8b1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/13 Předřadný odpor.png"
-              },
-              "icon": "lucide-image",
-              "title": "13 Předřadný odpor"
+              "title": "14. Elektromechanické relé"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,31 +269,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2f570c96ddbbbda",
+  "active": "12c56858032d978e",
   "lastOpenFiles": [
+    "img/14. Tyristor.png",
+    "svihlus/OT-14/Základní aktivní komponenty.md",
+    "img/14. Tranzistor unipolární.png",
+    "img/14. Tranzistor Bi- a Uni- polární.png",
+    "img/14. Dioda.png",
+    "img/14. Elektromechanické relé.png",
+    "svihlus/OT-14/README.md",
+    "img/Pasted image 20260302182816.png",
+    "svihlus/OT-14/15._zkladn_aktivn_komponenty.pdf",
+    "svihlus/OT-13/README.md",
+    "svihlus/OT-13/Základní pasivní komponenty.md",
     "img/13 Stabilizace napětí graf.png",
     "img/13 Stabilizace napětí.png",
-    "svihlus/OT-13/Základní pasivní komponenty.md",
     "img/13 fázový posun kondezátor.png",
     "img/13 Fázový posun cívka.png",
-    "img/13 Dělič napětí.png",
-    "img/13 Bočník.png",
-    "img/13 Předřadný odpor.png",
-    "svihlus/OT-13/README.md",
     "maturitni_otazky.md",
-    "svihlus/OT-14/README.md",
     "svihlus/OT-13/Pasivní součástky - Frteen.md",
-    "svihlus/OT-14/15._zkladn_aktivn_komponenty.pdf",
     "svihlus/OT-14/shrnuti_OT14.md",
     "svihlus/OT-13/14._zkladn_pasivn_komponenty.pdf",
     "svihlus/OT-13/shrnuti_OT13.md",
     "jedle/OT-01/git (1).md",
     "jedle/OT-01/shrnuti_OT01 - GIT.md",
-    "img/image_1739174395321_0.png",
     "jedle/OT-02/systems_CZ.md",
     "jedle/OT-03/booleovska_algebra.md",
-    "img/Karnaugh.png",
-    "img/feedback.png",
     "jedle/OT-02/shrnuti_OT02.md",
     "jedle/OT-02/zakladni_principy.md",
     "jedle/OT-01/git.md",
