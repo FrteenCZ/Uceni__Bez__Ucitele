@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "936699ee19998fd2",
+        "id": "703cd66a1a2f6a1a",
         "type": "tabs",
         "children": [
           {
             "id": "a1035ec21c339f6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "svihlus/OT-13/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nová karta"
+              "title": "README"
             }
           }
         ]
@@ -192,6 +196,18 @@
   },
   "active": "a1035ec21c339f6f",
   "lastOpenFiles": [
+    "svihlus/OT-13/shrnuti_OT13.md",
+    "svihlus/OT-13/README.md",
+    "svihlus/OT-13/Základní pasivní komponenty.md",
+    "svihlus/OT-13/Pasivní součástky - Frteen.md",
+    "img/Pasted image 20260302110457.png",
+    "img/Pasted image 20260302110237.png",
+    "img/Pasted image 20260302104939.png",
+    "img/Pasted image 20260302103717.png",
+    "svihlus/OT-13/14._zkladn_pasivn_komponenty.pdf",
+    "img/Pasted image 20260302100248.png",
+    "img/Pasted image 20260302095814.png",
+    "img/Pasted image 20260302095009.png",
     "jedle/OT-01/git (1).md",
     "jedle/OT-01/shrnuti_OT01 - GIT.md",
     "img/image_1739174395321_0.png",
@@ -199,13 +215,6 @@
     "jedle/OT-03/booleovska_algebra.md",
     "img/Karnaugh.png",
     "img/feedback.png",
-    "img/booleovaAlgebra.png",
-    "img/System_third_order.png",
-    "img/System_second_order_zeta.png",
-    "img/System_second_order_omega.png",
-    "img/System_second_order_impulse.png",
-    "img/System_second_order.png",
-    "img/System_first_order_tau.png",
     "jedle/OT-02/shrnuti_OT02.md",
     "jedle/OT-02/zakladni_principy.md",
     "jedle/OT-01/git.md",
