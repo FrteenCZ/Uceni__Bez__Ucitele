@@ -20,13 +20,13 @@
 
 ## Častá zapojení
 - **Předřadný odpor** - zapojuje se před citlivé součástky k omezení maximálního proudu
-![Pasted image 20260302095009](../../img/Pasted%20image%2020260302095009.png)
+![](../../img/13%20Předřadný%20odpor.png)
 
 - **Bočník** - obvykle nízko ohmový rezistor zapojený paralelně k měřícímu přístroji (ampérmetru), aby skrz měřící přístroj protékala jen část proud → vlastně se tím zvětšuje měřící rozsah přístroje
-![](../../img/Pasted%20image%2020260302095814.png)
+![](../../img/13%20Bočník.png)
 
 - **Dělič napětí** - dělí přivedené napětí v daném poměru (na obrázku celkový odpor obou odporů je $\pu{ 50 k\Omega }$, z toho $\frac{1}{5}$ nad bází tranzistoru a $\frac{4}{5}$ pod bází připojeno na zem → na bázi tranzistoru budou $\frac{4}{5}$ původního napětí  $\pu{ 4V }$, je to docela ztrátové, ale záleží na konkrétním užití
-![](../../img/Pasted%20image%2020260302100248.png)
+![](../../img/13%20Dělič%20napětí.png)
 
 ## Měnitelné odpory
 - **reostat** - měnitelný odpor
@@ -62,7 +62,7 @@
 ## Reálná cívka
 - má induktanci i elektrický odpor (ano, reálné dráty mají odpor)
 - způsobuje posun napětí oproti proudu o hodnotu mezi $0$ a $\frac{\pi}{2}$ (dáno velikostí impedance cívky)
-![](../../img/Pasted%20image%2020260302103717.png)
+![](../../img/13%20Fázový%20posun%20cívka.png)
 
 ---
 # Kondenzátor
@@ -82,11 +82,11 @@
 ## Reálný kondenzátor
 - má vnitřní odpor i kapacitanci
 - způsobuje posun napětí oproti proudu o hodnotu mezi $0$ a $-\frac{\pi}{2}$ (dáno velikostí impedance kondenzátoru)
-![](../../img/Pasted%20image%2020260302104939.png)
+![](../../img/13%20fázový%20posun%20kondezátor.png)
 
 ## Užití a časté zapojení
 - **stabilizace napětí paralelně připojeným kondenzátorem** - vyhlazení vstupního signálu (zahlazení napěťových špiček), kondenzátor neumožňuje prudkou změnu napětí → v moment kdy na vstupu “není napětíˮ, kondenzátor slouží jako zdroj energie (vybíjí se), čím větší kapacita a menší vnitřní odpor kondenzátoru, tím hladší křivka napětí
-![](../../img/Pasted%20image%2020260302110237.png)
-![](../../img/Pasted%20image%2020260302110457.png)
+![](../../img/13%20Stabilizace%20napětí.png)
+![](../../img/13%20Stabilizace%20napětí%20graf.png)
 
 - **časovače** - ve většině generátorů signálu jsou kondenzátory použity jako časové prvky → jejich střídavé nabíjení a vybíjení určuje periodu kmitání, čím větší má kondenzátor kapacitu, tím větší perioda (trvá déle než se vybije)
