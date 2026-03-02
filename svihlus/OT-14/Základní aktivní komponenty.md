@@ -28,7 +28,7 @@
 ## Diak
 - třívrstvý - dva druhy  `PNP`/`NPN`
 - jako Zenerova dioda ale pro střídavý proud
-![](../../img/Pasted%20image%2020260302182816.png)
+![](../../img/14.%20Diak.png)
 
 ## Transistor
 - třívrstvá polovodičová součástka
