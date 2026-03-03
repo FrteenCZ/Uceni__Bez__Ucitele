@@ -95,7 +95,7 @@ $$
 
 # Použití klopných obvodů:
 ## Čítače
-viz. [Čítače, časovače a přerušení](../OT-18/README.md)
+viz. [Čítač](Čítače,%20časovače%20a%20přerušení.md#Čítač)
 
 ## Posuvné registry PR
 - kaskádně (za sebou) zapojené klopné obvody, počet klopných obvodů určuje počet bitů (stupňů)
