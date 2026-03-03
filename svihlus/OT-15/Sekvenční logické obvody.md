@@ -9,7 +9,7 @@ Dělí se na:
 # Klopný obvod RS (Flip-flop)
 - asynchronní
 - má dva vstupy: $S$ = `set`, $R$ = `reset`
-- má dva výstupy (ostatní druhy taky): $Q$  `výstup`, $\overline{Q}$  `negace výstupu`
+- má dva výstupy (ostatní druhy taky): $Q$ = `výstup`, $\overline{Q}$ = `negace výstupu`
 - $1$ na vstupu $S$ nastaví výstup na 1
 - $1$ na vstupu $R$ nastaví výstup na 0
 - $1$ na vstupu $S$ a $R$ zároveň je **nepovolený stav**
