@@ -7,8 +7,8 @@
 - funguje na principu rychlého spínání a vypínání signálu, přičemž se mění poměr mezi dobou zapnutí a vypnutí (střída)
 - umožňuje regulaci systémů řízených analogovým vstupem (DC motory, LED), k plynulosti je však potřeba dostatečně vysoká frekvence (např. u LEDky by mohlo být viditelné jak bliká)
 - (pro pochopení) pokud je střída 50 %, pak se námi spínaný systém chová jako kdyby byl spínán stejnosměrným napětím poloviční amplitudy (adekvátně pak pro střídu 33.3 % je DC napětí třetinové amplitudy, ...).
-![](../../img/20.%2050%20%%20duty%20cycle.png)
-![](../../img/20.%2020%%20duty%20cycle.png)
+![](../../img/20.%2050%20%20duty%20cycle.png)
+![](../../img/20.%2020%20duty%20cycle.png)
 
 ---
 

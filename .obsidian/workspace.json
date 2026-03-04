@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "svihlus/OT-20/README.md",
+                "file": "svihlus/OT-20/Pulzně šířková modulace (PWM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Pulzně šířková modulace (PWM)"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "svihlus/OT-20/README.md",
+                "file": "svihlus/OT-20/Pulzně šířková modulace (PWM).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Přehled README"
+              "title": "Přehled Pulzně šířková modulace (PWM)"
             }
           },
           {
@@ -196,6 +196,9 @@
   },
   "active": "c8421f34633e740a",
   "lastOpenFiles": [
+    "img/20. 20 duty cycle.png",
+    "img/20. 50  duty cycle.png",
+    "svihlus/OT-20/README.md",
     "svihlus/OT-20/Pulzně šířková modulace (PWM).md",
     "svihlus/OT-20/shrnuti_OT20.md",
     "img/20. 50 % duty cycle.png",
@@ -218,7 +221,6 @@
     "img/16. Mikrofony.png",
     "img/16. Ultrazvukové senzory.png",
     "img/16. Fotorezistory.png",
-    "img/16. Fotodiody a fototranzistory.png",
     "svihlus/OT-16/16._senzory_a_ten_dat.pdf",
     "svihlus/OT-15/Sekvenční logické obvody.md",
     "svihlus/OT-18/Čítače, časovače a přerušení.md",
@@ -236,8 +238,6 @@
     "svihlus/OT-14/15._zkladn_aktivn_komponenty.pdf",
     "svihlus/OT-13/README.md",
     "svihlus/OT-13/Základní pasivní komponenty.md",
-    "svihlus/OT-13/Pasivní součástky - Frteen.md",
-    "svihlus/OT-14/shrnuti_OT14.md",
     "svihlus/OT-13/14._zkladn_pasivn_komponenty.pdf"
   ]
 }
